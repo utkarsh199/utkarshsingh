@@ -1,0 +1,35 @@
+ /* Home */
+ #home{
+     height: 820px;
+     width: 360px;
+     
+
+ }
+ .headings{
+     font-size: 1.7rem;
+     text-align: center;
+     
+}
+
+ /* About */
+ #pic img{
+     width: 290px;
+     height: 175px;
+ }
+ #intro h2{
+     font-size: 1.5rem;
+     
+ }
+
+ /* Portfolio */
+ #gallery img {
+    width: 250px;
+    height: 150px;
+    margin:9px;
+ }  
+ /* Contact Section*/
+ .input{
+     width: 60%;
+ }
+ 
+ 
